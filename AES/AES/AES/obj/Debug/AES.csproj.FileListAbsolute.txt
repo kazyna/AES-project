@@ -1,0 +1,6 @@
+c:\users\alen\documents\visual studio 2013\Projects\AES\AES\bin\Debug\AES.exe.config
+c:\users\alen\documents\visual studio 2013\Projects\AES\AES\bin\Debug\AES.exe
+c:\users\alen\documents\visual studio 2013\Projects\AES\AES\bin\Debug\AES.pdb
+c:\users\alen\documents\visual studio 2013\Projects\AES\AES\obj\Debug\AES.csprojResolveAssemblyReference.cache
+c:\users\alen\documents\visual studio 2013\Projects\AES\AES\obj\Debug\AES.exe
+c:\users\alen\documents\visual studio 2013\Projects\AES\AES\obj\Debug\AES.pdb
